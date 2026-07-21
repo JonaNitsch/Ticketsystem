@@ -13,7 +13,3 @@ Die UI Dateien weichen Teilweise von der fertigen GUI ab, da sie im laufe des Be
 Dieses System habe ich zusammen mit Rene, Habermann verfasst
 
 Ich plane eine weiterführung des Projektes!
-
-Absolut alles ist machbar!
-
-Die diff war blödsinn, bitte etwas neues überlegen!
